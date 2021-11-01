@@ -1,0 +1,25 @@
+.content {
+    font-family: 'Roboto', monospace;
+    margin: 0;
+    float: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    font-family: 'Roboto', monospace;
+    margin-left: 1em;
+    
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+}
+
+#wookie {
+    text-align: center;
+    float: right;
+}

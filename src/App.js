@@ -1,8 +1,13 @@
-import React from 'react'
+import Films from './components/Films'
 
 const App = () => {
   return (
-    <h1>hello world</h1>
+    <>
+    <div className="content">
+        <h1>Star Wars Films</h1> 
+          <Films />
+    </div> 
+    </>
   )
 }
 
