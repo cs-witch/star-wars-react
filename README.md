@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Getting Started
 
-`git clone` this repository. Navigate to the root folder and install all dependencies `npm i`.
+- `git clone` this repository. 
 
-Use `npm start` to run a local server on [](http://localhost:3000).
+- Navigate to the root folder and install all dependencies `npm i`.
+
+- Use `npm start` to run a local server on http://localhost:3000.
