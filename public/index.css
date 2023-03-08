@@ -3,6 +3,7 @@ body {
 	height: 100%;
 	overflow: hidden;
 	background: #000;
+  background-image: url(star-wars-background.png);
 	margin-right: 1em;
 }
 
@@ -32,13 +33,11 @@ h1 {
   font-family: 'Pathway Gothic One', sans-serif;
 	font-size: 12px;
 	margin-left: .5em;
-	/* display: flex; */
 }
 
 .star-wars {
     /* Flexbox to center the entire element on the screen */
     display: flex;
-		/* flex-direction: row; */
     justify-content: center;
     /* This is a magic number based on the context in which this snippet is used and effects the perspective */
     height: 800px;
