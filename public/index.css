@@ -36,12 +36,11 @@ h1 {
 }
 
 .star-wars {
-    /* Flexbox to center the entire element on the screen */
     display: flex;
     justify-content: center;
-    /* This is a magic number based on the context in which this snippet is used and effects the perspective */
+    
     height: 800px;
-    /* This sets allows us to transform the text on a 3D plane, and is somewhat a magic number */
+    
     perspective: 400px;
     background-color: #000;
     color: #feda4a;
