@@ -59,7 +59,7 @@ export default function Films() {
         </Card>
       ))}
       <div className="star-wars">
-        {films.map((film) => (
+        {films.slice(0,1).map((film) => (
           <section key={film.episode_id} className="crawl">
             {film.opening_crawl}
           </section>
